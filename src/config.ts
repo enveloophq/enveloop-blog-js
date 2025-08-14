@@ -34,7 +34,7 @@ export const themeConfig: ThemeConfig = {
       // used for post text
       secondary: 'oklch(40% 0.005 298)',
       // background color
-      background: 'oklch(96% 0.005 298)',
+      background: 'oklch(1 0 227)',
       // highlight color
       // used for navbar, selected text, etc
       highlight: 'oklch(0.93 0.195089 103.2532 / 0.5)', // rgba(255,235,0,0.5)
